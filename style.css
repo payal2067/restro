@@ -35,4 +35,22 @@
      width: 40%;
 
  }
- 
+
+ img:hover {}
+
+ .btn {
+     color: black;
+    
+ }
+
+ .btn:hover {
+     background-color: #222831;
+     color: white;
+ }
+
+ .card-1 {
+     background-color: #222831;
+ }
+ #card-img-1:hover{
+    transform: scale(1.1);
+ }
